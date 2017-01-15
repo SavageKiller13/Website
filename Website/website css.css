@@ -1,0 +1,47 @@
+﻿.p {
+	font-family: Georgia, sans-serif;
+	font-size: 20px;
+	color: Blue;
+}
+
+.h1 {
+	font-size: 20px;
+	padding-left: 425px;
+	font-family: Georgia, sans-serif;
+	color: rgb(147, 126, 252);
+}
+
+a:link {
+	font-size: 15px;
+    background-color: Orange;
+    color: Sky-Blue;
+    padding: 14px 21px;
+    text-align: center; 
+    text-decoration: none;
+    display: inline-block;
+}
+
+a:hover, a:active {
+    background-color: red;
+}
+
+.h2 {
+	font-size: 15px;
+	padding-left: 300px;
+	padding-top: 50px;
+}
+
+.body1 {
+	background-color: rgb(255, 165, 0);opacity:0.7;
+}
+
+.body2 {
+	
+}
+
+body {
+	background-image: url("https://goo.gl/JBmOIw");
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+
